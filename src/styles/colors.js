@@ -11,5 +11,5 @@ export default {
   primary: '#444A5A',
   secundary: '#7A91CA',
 
-  background: 'F8FAFF',
+  background: '#F8FAFF',
 };

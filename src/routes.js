@@ -18,7 +18,7 @@ const createRootNavigator = (userExists = false) =>
       }, {
         tabBarPosition: 'bottom',
         tabBarOptions: {
-          showLabel: false,
+          showLabel: true,
           activeTintColor: colors.white,
           inactiveTintColor: colors.inactive,
           style: {
