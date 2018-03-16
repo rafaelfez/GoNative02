@@ -84,6 +84,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/rafael/projetos/gonative/GoNative02/android/app/build/intermediates/exploded-aar/githuber/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8065a43b1a868d17519e67d7651e13a99862d3ce">
+        <dex dex="/home/rafael/projetos/gonative/GoNative02/android/app/build/intermediates/pre-dexed/debug/githuber-react-native-vector-icons-unspecified_428f567218821825327827ffba1d84834751a215.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/rafael/projetos/gonative/GoNative02/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"

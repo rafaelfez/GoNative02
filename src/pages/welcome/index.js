@@ -76,6 +76,7 @@ export default class Welcome extends Component {
           style={styles.input}
           placeholder="Digite seu usuário"
           onChangeText={(username) => { this.setState({ username }); }}
+          underlineColorAndroid="transparent"
         />
 
         <TouchableOpacity style={styles.button} onPress={this.navigateToUser}>
